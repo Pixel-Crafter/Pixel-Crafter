@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ### Connect with me:
 <p align="left">
   <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://linkedin.com/in/harshaldeshmukh"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/harshal-deshmukh-44b3902a5"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <!--   <a href="https://x.com/"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" /></a> -->
 <!--   <a href="https://medium.com/"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?logo=medium&logoColor=white" alt="Medium" /></a> -->
 <!--   <a href="https://www.reddit.com/user//?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white" alt="Reddit" /></a> -->
