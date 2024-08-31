@@ -22,8 +22,8 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=Pixel-Crafter&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
-- 🔭 Currently working on: personal portfolio and brain tumor detection using deep learning
-- Currently learning: JavaScript, React, Python, and Machine Learning
+- 🔭 Currently working on: Personal Portfolio and Crime Control System using Deep Learning
+- Currently learning: JavaScript, React Js, Python, Next Js and Machine Learning
 <!-- - 📫 Reach me at: [work.harshal22@gmail.com](mailto:work.harshal22@gmail.com) -->
 
 ### Connect with me:
