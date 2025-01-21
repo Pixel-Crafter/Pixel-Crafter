@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 <p align="left">
-  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
+<!--   <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a> -->
   <a href="https://linkedin.com/in/harshal-deshmukh-44b3902a5"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://discord.gg/9MXRvC37SP"><img src="https://img.shields.io/badge/Discord-5865F2?&logo=discord&logoColor=white" alt="Discord" /></a>
   <h4>Join our Discord server to connect with like-minded professionals, share knowledge, collaborate on projects, and find opportunities for growth. Whether you're just starting out or you're a seasoned pro, there's a place for you!<h4>
