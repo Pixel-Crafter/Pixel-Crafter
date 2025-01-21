@@ -31,7 +31,10 @@ Here are some ideas to get you started:
 <!--   <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a> -->
   <a href="https://linkedin.com/in/harshal-deshmukh-44b3902a5"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://discord.gg/9MXRvC37SP"><img src="https://img.shields.io/badge/Discord-5865F2?&logo=discord&logoColor=white" alt="Discord" /></a>
-  <h4>Join our Discord server to connect with like-minded professionals, share knowledge, collaborate on projects, and find opportunities for growth. Whether you're just starting out or you're a seasoned pro, there's a place for you!<h4>
+  <h3>Join Our Discord!</h3>
+  <h4>🚀 A community for developers, freelancers, and creators!
+
+Connect, collaborate, and grow with like-minded professionals<h4>
 <!--   <a href="https://x.com/"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" /></a> -->
 <!--   <a href="https://medium.com/"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?logo=medium&logoColor=white" alt="Medium" /></a> -->
 <!--   <a href="https://www.reddit.com/user//?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white" alt="Reddit" /></a> -->
