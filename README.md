@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=Pixel-Crafter&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
-- 🔭 Currently working on: Personal Portfolio and Crime Control System using Deep Learning
+- 🔭 Currently working on: Personal Portfolio
 - Currently learning: JavaScript, React Js, Python, Next Js and Machine Learning
 <!-- - 📫 Reach me at: [work.harshal22@gmail.com](mailto:work.harshal22@gmail.com) -->
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <a href="https://linkedin.com/in/harshal-deshmukh-44b3902a5"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://discord.gg/9MXRvC37SP"><img src="https://img.shields.io/badge/Discord-5865F2?&logo=discord&logoColor=white" alt="Discord" /></a>
   <h3>Join Our Discord!</h3>
-  <h4>🚀 A community for developers, freelancers, and creators!
+  <h4>🚀 A community for developers, freelancers and creators!
 
 Connect, collaborate, and grow with like-minded professionals<h4>
 <!--   <a href="https://x.com/"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" /></a> -->
