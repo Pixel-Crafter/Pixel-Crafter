@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there👋🏻, I'm Harshal Deshmukh</h1>
-<h3 align="center">AI Enthusiast | Fresher | B.E. Computer Science & Engineering (AI & ML)</h3>
+<h3 align="center">AI Enthusiast | Web Developer | B.E. Computer Science & Engineering (AI & ML)</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Pixel-Crafter&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
