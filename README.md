@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 - 🔭 Currently working on: Personal Portfolio
 - Currently learning: JavaScript, React Js, Python, Next Js and Machine Learning
+- 👯 I’m looking to collaborate on Web Application projects
 <!-- - 📫 Reach me at: [work.harshal22@gmail.com](mailto:work.harshal22@gmail.com) -->
 
 ### Connect with me:
@@ -34,7 +35,7 @@ Here are some ideas to get you started:
   <h3>Join Our Discord!</h3>
   <h4>🚀 A community for developers, freelancers and creators!
 
-Connect, collaborate, and grow with like-minded professionals<h4>
+Connect, collaborate and grow with like-minded professionals<h4>
 <!--   <a href="https://x.com/"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" /></a> -->
 <!--   <a href="https://medium.com/"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?logo=medium&logoColor=white" alt="Medium" /></a> -->
 <!--   <a href="https://www.reddit.com/user//?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white" alt="Reddit" /></a> -->
