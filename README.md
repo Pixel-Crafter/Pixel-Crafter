@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=Pixel-Crafter&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
-- 🔭 Currently working on: Personal Portfolio
+- 🔭 Currently working on: Personal Portfolio and Spotify Clone.
 - Currently learning: JavaScript, React Js, Python, Next Js and Machine Learning
 - 👯 I’m looking to collaborate on Web Application projects
 <!-- - 📫 Reach me at: [work.harshal22@gmail.com](mailto:work.harshal22@gmail.com) -->
@@ -43,8 +43,8 @@ Connect, collaborate and grow with like-minded professionals<h4>
 
 ### 💻 Tech Stack:
 <p align="left">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <!-- <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" /> -->
+  <!-- <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> -->
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -65,7 +65,7 @@ Connect, collaborate and grow with like-minded professionals<h4>
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pixel-Crafter&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br><br>
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pixel-Crafter&theme=dark&hide_border=false" alt="GitHub Streak" /><br/> -->
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pixel-Crafter&theme=dark&hide_border=false" alt="GitHub Streak" /><br/> -->
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Pixel-Crafter&theme=dark&hide_border=false" alt="GitHub Streak" /><br><br>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pixel-Crafter&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
