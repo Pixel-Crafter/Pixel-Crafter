@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=Pixel-Crafter&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
-- 🔭 Currently working on: Personal Portfolio and Spotify Clone.
+- 🔭 Currently working on: Warehouse Management System (WMS), Personal Portfolio and Spotify Clone.
 - Currently learning: JavaScript, React Js, Python, Next Js and Machine Learning
 - 👯 I’m looking to collaborate on Web Application projects
 <!-- - 📫 Reach me at: [work.harshal22@gmail.com](mailto:work.harshal22@gmail.com) -->
